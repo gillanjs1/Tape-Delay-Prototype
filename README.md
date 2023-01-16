@@ -1,0 +1,1 @@
+Simulates bucket-brigade device hardware to produce an audio delay effect, designed to exhibit “wild” vintage laser sound effects when delay time moved during playback, and engineered to avoid zipper noise artifacts when doing so. Builds on top of aforementioned tape loop simulation code.
