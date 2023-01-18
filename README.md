@@ -11,5 +11,5 @@ https://vimeo.com/manage/videos/790011820
 ## How to build & run
 
  - Download and install the JUCE framework
- - Checkout this repository, then open 'tapeplayervst.jucer' in Projucer
+ - Checkout this repository, then open 'TapeDelayJuce.jucer' in Projucer
  - Press 'Save and Open in IDE' within Projucer to open the project in your IDE of choice, then run a build from there
