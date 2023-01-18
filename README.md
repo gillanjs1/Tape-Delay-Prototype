@@ -1,6 +1,8 @@
 ## About
 
-Simulates bucket-brigade device hardware to produce an audio delay effect, designed to exhibit “wild” tape flutter sound effects when delay time moved during playback, and engineered to avoid zipper noise artifacts when doing so. Builds on top of [tape loop simulation](https://github.com/gillanjs1/Tape-Loop-Simulation/) code.
+Audio effect plugin which simulates bucket-brigade device hardware to produce an audio delay effect, designed to exhibit “wild” tape flutter sound effects when delay time moved during playback, and engineered to avoid zipper noise artifacts when doing so. Builds on top of [tape loop simulation](https://github.com/gillanjs1/Tape-Loop-Simulation/) code.
+
+Built using JUCE framework.
 
 ## Demo
 
