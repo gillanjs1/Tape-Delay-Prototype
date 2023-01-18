@@ -4,6 +4,12 @@
               pluginVST3Category="Delay">
   <MAINGROUP id="Ek8A9T" name="TapeDelayJuce">
     <GROUP id="{FED2F2CF-3FDA-08CA-8162-0236FE0D0166}" name="Source">
+      <FILE id="SVzJoG" name="DelayUnit.cpp" compile="1" resource="0" file="Source/DelayUnit.cpp"/>
+      <FILE id="RrU0tA" name="DelayUnit.h" compile="0" resource="0" file="Source/DelayUnit.h"/>
+      <FILE id="TYzBjw" name="TapeLoop.cpp" compile="1" resource="0" file="Source/TapeLoop.cpp"/>
+      <FILE id="OktGHy" name="TapeLoop.h" compile="0" resource="0" file="Source/TapeLoop.h"/>
+      <FILE id="tCXRzw" name="TapeTest.cpp" compile="1" resource="0" file="Source/TapeTest.cpp"/>
+      <FILE id="GQuuF4" name="TapeTest.h" compile="0" resource="0" file="Source/TapeTest.h"/>
       <FILE id="qc9Hvv" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="RvV718" name="PluginProcessor.h" compile="0" resource="0"
